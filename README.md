@@ -1,6 +1,11 @@
-# PokemonFrontend
+## Pokemon_Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+The Pokemon App coding challenge frontend repository, built in Angular. A repo to the REST API built with .NET 6 is available [here](https://github.com/thobashangase/Pokemon_Api).
+
+## Author
+
+- [@thobashangase](https://www.github.com/thobashangase)
+
 
 ## Development server
 

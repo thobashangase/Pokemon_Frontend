@@ -1,6 +1,6 @@
 ## Pokemon_Frontend
 
-The Pokemon App coding challenge frontend repository, built in Angular. A repo to the REST API built with .NET 6 is available [here](https://github.com/thobashangase/Pokemon_Api).
+The Pokemon App coding challenge frontend repository, built in Angular. The Angular version can be found [here](https://github.com/thobashangase/Pokemon_Frontend). The  repo to the REST API project, built with .NET 6, is available [here](https://github.com/thobashangase/Pokemon_Api).
 
 ## Author
 
